@@ -6,12 +6,12 @@
 
 This project demonstrates how to use AWS services for data storage and basic cloud computing tasks
 
-## 🔹 Overview
+##  Overview
 - **Amazon S3** → Upload and list data files using Python (Boto3)
 - **Amazon EC2** → Run compute instances for data processing
 - **AWS Lambda** → Automate file processing with serverless functions
 
-## 🧰 Key Features
+##  Key Features
 - Create S3 buckets programmatically  
 - Upload and list files using `boto3`  
 - Example Python script (`aws_s3_basics.py`)  
