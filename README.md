@@ -28,5 +28,13 @@ This folder contains a sample ETL pipeline that demonstrates how to:
 4. Load transformed records into Amazon Redshift for analytics.
    
  **Important:** This repo contains example code and a small sample dataset. 
+
+
+# 3
+# File: redshift_load_query.py
+Overview:
+Demonstrates connecting to Amazon Redshift, creating a table, loading data from S3, and executing analytical SQL queries in Python. Covers data aggregation, optimization concepts, and integration with AWS IAM roles for secure data access.
+
+ 
  The Glue job script (`glue_etl_job.py`) is intended to run inside AWS Glue, not locally, unless you follow the local testing guidance.
 
