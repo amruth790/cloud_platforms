@@ -38,3 +38,9 @@ Demonstrates connecting to Amazon Redshift, creating a table, loading data from 
  
  The Glue job script (`glue_etl_job.py`) is intended to run inside AWS Glue, not locally, unless you follow the local testing guidance.
 
+
+ # 4
+ # File: bigquery_gcs_integration.py
+Overview:
+This script demonstrates integrating Google Cloud Storage with BigQuery. It creates a dataset, loads a CSV from GCS into a BigQuery table, and runs analytical SQL queries to summarize sales data. It shows how serverless data warehouses simplify large-scale analytics using Python and SQL.
+
