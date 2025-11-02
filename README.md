@@ -44,3 +44,13 @@ Demonstrates connecting to Amazon Redshift, creating a table, loading data from 
 Overview:
 This script demonstrates integrating Google Cloud Storage with BigQuery. It creates a dataset, loads a CSV from GCS into a BigQuery table, and runs analytical SQL queries to summarize sales data. It shows how serverless data warehouses simplify large-scale analytics using Python and SQL.
 
+
+# 5 
+# File: azure_storage_sql.py
+Overview:
+This project integrates Azure Blob Storage with Azure SQL Database using Python. Data is first uploaded to Blob Storage, then queried in a managed SQL Database to perform analytics. Demonstrates how cloud data pipelines can be built for storage, querying, and analysis within Microsoft Azure.
+
+
+
+
+
