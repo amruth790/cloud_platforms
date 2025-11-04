@@ -51,6 +51,9 @@ Overview:
 This project integrates Azure Blob Storage with Azure SQL Database using Python. Data is first uploaded to Blob Storage, then queried in a managed SQL Database to perform analytics. Demonstrates how cloud data pipelines can be built for storage, querying, and analysis within Microsoft Azure.
 
 
-
+# 6
+# File: spark_cloud_integration.py
+Overview:
+Demonstrates how to connect Apache Spark with cloud storage services like AWS S3, Azure Blob, or Google Cloud Storage. The script reads a dataset directly from the cloud, performs transformations (groupBy, aggregation), and writes results back to the cloud. This setup shows how cloud and big data frameworks integrate to build scalable data pipelines.
 
 
